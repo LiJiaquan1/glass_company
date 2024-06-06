@@ -1,0 +1,7 @@
+# Site settings
+title: Your Personal web
+baseurl:
+url: "https://Lijiaquan1.github.io/glass_company/"
+
+# Build settings
+theme: jekyll-theme-minimal
